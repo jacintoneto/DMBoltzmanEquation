@@ -10,5 +10,5 @@ Bibtex, with hyperref package:
   title = {{Boltzmann Equation for WIMP Dark Matter}},
   howpublished = {\href{https://github.com/jacintoneto/DMBoltzmanEquation}{github.com/DMBoltzmanEquation}},
   year = {2024}, 
-  note = "[Online; accessed 08-11-2025]"
+  note = "[Online; accessed DD-MM-YYYY]"
 }
