@@ -4,6 +4,7 @@ Codes for numerically solving the Boltzmann equation that describes the evolutio
 Who else uses this code, please, acknowledge it.
 Bibtex, with hyperref package:
 
+```bibtex
 @misc{BEQWIMPDM,
   author = {Jacinto P. Neto},
   title = {{Boltzmann Equation for WIMP Dark Matter}},
